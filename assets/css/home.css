@@ -1,0 +1,39 @@
+
+body{
+    text-align: center;
+    margin:0;
+    font-family: sans-serif;
+    background-color: lightblue;
+    
+}
+#page-heading{
+    text-align: center;
+    margin-top: 25px;
+    color: black;
+    border:2px solid black;
+}
+#contacts{
+    list-style-type: none;
+    font-size: 23px;
+    
+}
+.list{
+    color: black;
+    text-align: center;
+    background-color: skyblue;
+    padding-top: 2px;
+
+    font-family:cursive;
+    display: inline;
+    
+}
+.list :hover{
+    color: grey;
+}
+#data{
+    font-color:white;
+}
+#forms
+{
+
+}
