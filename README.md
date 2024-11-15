@@ -22,7 +22,7 @@ Clone the repository:
 
 bash
 Copy code:
-git clone https://github.com/your-username/contact-management-app.git
+git clone https://github.com/singla024dhruv/Contact-list.git
 cd contact-management-app
 
 
